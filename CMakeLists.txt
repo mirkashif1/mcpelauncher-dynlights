@@ -8,12 +8,12 @@ include(FetchContent)
 
 FetchContent_Declare(libhat
         GIT_REPOSITORY https://github.com/BasedInc/libhat.git
-        GIT_TAG 5cf79adf86152233371b43adab5a0f9db6daa4e7
+        GIT_TAG 69149a1cee5a0228492826bd71af1a32d73ed87e
         EXCLUDE_FROM_ALL)
 
 FetchContent_Declare(properties-parser
         GIT_REPOSITORY https://github.com/minecraft-linux/properties-parser.git
-        GIT_TAG 69149a1cee5a0228492826bd71af1a32d73ed87e
+        GIT_TAG 79f5360f889100bd4a1e069f4d9b86e94c902633
         EXCLUDE_FROM_ALL)
 
 
