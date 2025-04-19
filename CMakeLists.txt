@@ -13,7 +13,7 @@ FetchContent_Declare(libhat
 
 FetchContent_Declare(properties-parser
         GIT_REPOSITORY https://github.com/minecraft-linux/properties-parser.git
-        GIT_TAG 79f5360f889100bd4a1e069f4d9b86e94c902633
+        GIT_TAG 69149a1cee5a0228492826bd71af1a32d73ed87e
         EXCLUDE_FROM_ALL)
 
 
